@@ -1,0 +1,12 @@
+square
+600
+rhombus
+1200
+circle
+1800
+square
+2400
+square
+2800
+finalLine
+3200
